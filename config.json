@@ -1,0 +1,7 @@
+{
+    "token": "PUTUSERTOKENHERE",
+    "channel_ids": [
+        "channelidexample1", "channelidexample2", "channelidexample3"
+    ],
+    "message": "Put your advertisement here, when you wanna go to a new line, use \n"
+}
