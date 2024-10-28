@@ -2,9 +2,9 @@
 A simple discord selfbot used to send advertisements in differents channels automatically.
 ------------------
 # Requirements
-Python 12+
-Windows only (Could work on another system but require some changes
-Your user discord token
+- Python 12+
+- Windows only (Could work on another system but require some changes
+- Your user discord token
 # Usage
 - Download as a zip and unzip it
 - lauch install.bat (Will install required dependencies)
