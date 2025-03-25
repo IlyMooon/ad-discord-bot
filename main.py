@@ -106,7 +106,7 @@ while True:
         System.Title("Automated Advertising Bot - By IlyMoon")
         cc()
         startmenu()
-        Write.Print("All ads were sent 5 seconds ago, thanks for using this script !", Colors.light_green, interval=0.00005)
+        Write.Print("All ads were sent 5 seconds ago, thanks for using this script !\n", Colors.light_green, interval=0.00005)
 
     elif command == "help":
         Write.Print(f"Here are all the commands available :\nstart - Run the bot using actual configuration\neditconfig - launch notepad to edit the config file\nhelp - open the commands help\nexit - close the program\n", Colors.green, interval=0.00005)
